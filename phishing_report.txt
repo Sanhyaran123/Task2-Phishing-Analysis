@@ -1,0 +1,28 @@
+#  Phishing Email Analysis Report – Task 2
+
+##  Email Details
+
+- **Subject:** Immediate Action Required – Verify Your Account  
+- **From Address:** support@amaz0n-alert.com  
+- **Reply-To Address:** verify@scamlink.ru  
+- **Displayed Link:** http://amaz0n-fakesite.tk/verify-now  
+
+---
+
+## Phishing Indicators Found
+
+1. **Spoofed sender domain** – "amaz0n" instead of "amazon"
+2. **Suspicious reply-to email** – A completely different domain from Amazon
+3. **Threatening language** – “Your account will be suspended in 24 hours”
+4. **Fake verification link** – Link looks similar to a real Amazon link but is actually a scam domain
+5. **Generic greeting** – “Dear User” instead of using the real name
+6. **Urgency and fear tactic** – Forces quick action without verifying
+
+---
+
+##  Conclusion
+
+This email contains multiple phishing indicators and is clearly a **malicious attempt to steal user credentials**.
+
+**Recommendation:** Do not click on any links or download attachments.  
+Immediately **report the email** to your email provider and **delete** it from your inbox.
